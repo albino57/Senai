@@ -7,7 +7,7 @@ programa
 		cadeia diasDaSemana[qtd] = {"Domingo","Segunda","Terça","Quarta","Quinta","Sexta","Sábado"}
 
 		escreva("Dias da Semana:")
-		para(inteiro i=0; i<qtd; i++){
+		para(inteiro i=0; i < qtd; i++){
 			escreva("\n", diasDaSemana[i])
 		}
 	}
@@ -17,7 +17,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 234; 
+ * @POSICAO-CURSOR = 202; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
