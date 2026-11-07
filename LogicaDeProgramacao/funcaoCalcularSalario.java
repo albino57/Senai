@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class funcaoCalcularSalario {
     static Scanner scan = new Scanner(System.in);
-    static double salarioBruto, vendasValor, comissao = 20.0;
+    static double salarioBruto, vendasValor, comissao = 9.0;
     static String nomeVendedor;
     public static void main(String[] args){
         
