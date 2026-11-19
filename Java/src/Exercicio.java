@@ -1,5 +1,3 @@
-package src;
-
 import java.util.Scanner;
 
 public class Exercicio {
@@ -15,6 +13,7 @@ public class Exercicio {
         media = (nota1 + nota2) / 2;
 
         System.out.println("A média é: " + media);
+        scan.close();
 
     }
 }

@@ -1,8 +1,6 @@
-package src;
-
 import javax.swing.JOptionPane;
 
-public class EntradaClasse {
+public class EntradaGraficaClasse {
     public static void main(String[] args) {
         String num1 = JOptionPane.showInputDialog("Digite num1");
         String num2 = JOptionPane.showInputDialog("Digite num1");

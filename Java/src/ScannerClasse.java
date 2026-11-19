@@ -1,5 +1,3 @@
-package src;
-
 import java.util.Scanner;
 
 public class ScannerClasse {
@@ -18,6 +16,8 @@ public class ScannerClasse {
         System.out.println("\n-------------------------------");
         System.out.printf("%s-%d-%.2f",nome, numero, altura);
         System.out.println("\n-------------------------------");
+
+        scan.close();
     }
 }
 /*

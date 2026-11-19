@@ -1,4 +1,3 @@
-package src;
 public class inferencia {
     public static void main(String[] args) {
         //inferência de variável

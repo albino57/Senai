@@ -1,5 +1,3 @@
-package src;
-
 public class SwitchClass {
     public static void main(String[] args) {
         int avaliacao = 5;

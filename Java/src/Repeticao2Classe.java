@@ -1,5 +1,3 @@
-package src;
-
 public class Repeticao2Classe {
     public static void main(String[] args) {
         int cont=0;

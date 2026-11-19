@@ -1,4 +1,3 @@
-package src;
 public class RepeticaoClasse {
     public static void main(String[] args) {
         int cont=0;
