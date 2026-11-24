@@ -28,7 +28,6 @@ public class RemoverRepetidos_7 {
 
         System.out.print("Sem repetidos-----: ");
         removeRepetidos(vetEntrada);
-
     }
 
     // ↓ Métodos ↓
@@ -68,3 +67,15 @@ public class RemoverRepetidos_7 {
         System.out.printf("\nValores removidos-: %d", cont);
     }
 }
+
+/*
+ * ------------------------------------------------------------------------
+ * String > scan.next(); Lê uma palavra/letra
+ * String > scan.nextLine(); Lê uma frase inteira e para só com ENTER
+ * char scan.next().charAt(0); Lê o primeiro caracter
+ * ------------------------------------------------------------------------
+ * Locale.setDefault(Locale.US); | Locale.setDefault(Locale.of("pt","BR"));
+ * ------------------------------------------------------------------------
+ * %f = float, double | %d = byte, short, int, long
+ * %s = String/boolean | %b = boolean | %c = char | %n = quebra de linha
+ */
