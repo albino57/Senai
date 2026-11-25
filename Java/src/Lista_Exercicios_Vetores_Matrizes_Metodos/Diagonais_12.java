@@ -28,6 +28,7 @@ public class Diagonais_12 {
                 matriz[i][j] = scan.nextInt();
             }
         }
+        scan.close();
         
         mostrarMatriz(matriz);
 
